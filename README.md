@@ -1,1 +1,1 @@
-# data-science-course-project-WMS
+# data-science-course-project-trashnet
